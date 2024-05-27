@@ -1,0 +1,58 @@
+﻿image_name,image_path,food_category,image_category,food_ingredients,image_status,food_causes
+CashewNutBiscuit,images/CashewNutBiscuit.jpeg,Biscuit,Packaging,"Fats, Unsaturated Fatty Acids, Saturated Fatty Acids, Protiens, Sodium",Healthy,No Issue
+SunfeastMomsMagicBiscuit,images/SunfeastMomsMagicBiscuit.jpeg,Biscuit,Packaging,"Fats, Unsaturated Fatty Acids, Saturated Fatty Acids, Protiens, Sodium",Healthy,No Issue
+2020CashewBiscuit,images/2020CashewBiscuit.jpeg,Biscuit,Packaging,"Fats, Unsaturated Fatty Acids, Saturated Fatty Acids, Protiens, Sodium",Healthy,No Issue
+Cashew Biscuit,images/CashewCookiesBiscuit.jpeg,Biscuit,Packaging,"Fats, Unsaturated Fatty Acids, Saturated Fatty Acids, Protiens, Sodium",Healthy,No Issue
+GoodDayBiscuit,images/GoodDayBiscuit.jpeg,Biscuit,Packaging,"Fats, Unsaturated Fatty Acids, Saturated Fatty Acids, Protiens, Sodium",Healthy,No Issue
+TigerCreamBiscuit,images/TigerCreamBiscuit.jpeg,Biscuit,Packaging,"Fats, Unsaturated Fatty Acids, Saturated Fatty Acids, Protiens, Sodium",Healthy,No Issue
+TigerCGlucoseBiscuit,images/TigerCGlucoseBiscuit.jpeg,Biscuit,Packaging,"Fats, Unsaturated Fatty Acids, Saturated Fatty Acids, Protiens, Sodium",Healthy,No Issue
+TigerCrunchBiscuit,images/TigerCrunchBiscuit.jpeg,Biscuit,Packaging,"Fats, Unsaturated Fatty Acids, Saturated Fatty Acids, Protiens, Sodium",Healthy,No Issue
+MariegoldBiscuit,images/MariegoldBiscuit.jpeg,Biscuit,Packaging,"Fats, Unsaturated Fatty Acids, Saturated Fatty Acids, Protiens, Sodium",Healthy,No Issue
+Parle_gBiscuit,images/Parle_gBiscuit.jpeg,Biscuit,Packaging,"Wheat flour, Sugar, RBD palm oil, Invert Syrup, Leavening Salt, Skin Milk Powder, Artificial Vanilla Flavors, Emulsifiers of vegetable Origin and Sodium Meta Bisulphite as Preservative. '",Healthy,No Issue
+Potatabiscuit,images/Potatabiscuit.jpeg,Biscuit,Packaging,"Wheat flour, Sugar, RBD palm oil, Invert Syrup, Leavening Salt, Skin Milk Powder, Artificial Vanilla Flavors, Emulsifiers of vegetable Origin and Sodium Meta Bisulphite as Preservative. '",Healthy,No Issue
+DigestiveBiscuit,images/DigestiveBiscuit.jpeg,Biscuit,Packaging,"Wheat flour, Sugar, RBD palm oil, Invert Syrup, Leavening Salt, Skin Milk Powder, Artificial Vanilla Flavors, Emulsifiers of vegetable Origin and Sodium Meta Bisulphite as Preservative. '",Healthy,No Issue
+BourbonBiscuit,images/BourbonBiscuit.jpeg,Biscuit,Packaging,"Wheat flour, Sugar, RBD palm oil, Invert Syrup, Leavening Salt, Skin Milk Powder, Artificial Vanilla Flavors, Emulsifiers of vegetable Origin and Sodium Meta Bisulphite as Preservative. '",Healthy,No Issue
+YummyBiscuit,images/YummyBiscuit.jpeg,Biscuit,Packaging,"Wheat flour, Sugar, RBD palm oil, Invert Syrup, Leavening Salt, Skin Milk Powder, Artificial Vanilla Flavors, Emulsifiers of vegetable Origin and Sodium Meta Bisulphite as Preservative. '",Healthy,No Issue
+CadbuaryHotChocolate,images/CadbuaryHotChocolate.jpeg,Chocolate,Packaging,"Sugar, Milk Solids, Cocoa Butter, Raisins, Cocoa Solids, Cashew Nuts, Aprekot Kernals, Emulsifiers, Artificial Flavours, Artificial Venilla.",Unhealthy,Dental Problem
+MolfieCandy,images/MolfieCandy.jpeg,Chocolate,Packaging,"Sugar, Milk Solids, Cocoa Butter, Raisins, Cocoa Solids, Cashew Nuts, Aprekot Kernals, Emulsifiers, Artificial Flavours, Artificial Venilla.",Unhealthy,Dental Problem
+DairyMilkChocolate,images/DairyMilkChocolate.jpeg,Chocolate,Packaging,"Sugar, Milk Solids, Cocoa Butter, Raisins, Cocoa Solids, Cashew Nuts, Aprekot Kernals, Emulsifiers, Artificial Flavours, Artificial Venilla.",Unhealthy,Dental Problem
+AavaSparklingWater,images/AavaSparklingWater.jpeg,Water Bottle,Packaging,"Magnisium Sulphate, Potassium Bicarbonate, Potassium Chloride.",Healthy,Liver Cancer
+KinleyWaterBottle,images/KinleyWaterBottle.jpeg,Water Bottle,Packaging,"Magnisium Sulphate, Potassium Bicarbonate, Potassium Chloride.",Healthy,Liver Cancer
+BaileyWaterBottle,images/BaileyWaterBottle.jpeg,Water Bottle,Packaging,"Magnisium Sulphate, Potassium Bicarbonate, Potassium Chloride.",Healthy,Liver Cancer
+BisleriWaterBottle,images/BisleriWaterBottle.jpeg,Water Bottle,Packaging,"Magnisium Sulphate, Potassium Bicarbonate, Potassium Chloride.",Healthy,Liver Cancer
+GreenAquaWater,images/GreenAquaWater.jpeg,Water Bottle,Packaging,"Magnisium Sulphate, Potassium Bicarbonate, Potassium Chloride.",Healthy,Liver Cancer
+AquaCoolWater,images/AquaCoolWater.jpeg,Water Bottle,Packaging,"Magnisium Sulphate, Potassium Bicarbonate, Potassium Chloride.",Healthy,Liver Cancer
+ReliableFreshWater,images/ReliableFreshWater.jpeg,Water Bottle,Packaging,"Magnisium Sulphate, Potassium Bicarbonate, Potassium Chloride.",Healthy,Liver Cancer
+SizzlinHotKurkure,images/SizzlinHotKurkure.jpeg,Kurkure,Packaging,"Rice Meal, Edible Vegetable Oil, Corn Meal, Gram Meal, Salt, Sugar, Tarteric, E631, Condiments.",Unhealthy,"High BP, Hypertension, Kidney disease, Risk of heart attack, and Stroke."
+ChilliChatkaKurkure,images/ChilliChatkaKurkure.jpeg,Kurkure,Packaging,"Rice Meal, Edible Vegetable Oil, Corn Meal, Gram Meal, Salt, Sugar, Tarteric, E631, Condiments.",Unhealthy,"High BP, Hypertension, Kidney disease, Risk of heart attack, and Stroke."
+GreenChatniStyleKurkure,GreenChatniStyleKurkure.jpeg,Kurkure,Packaging,"Rice Meal, Edible Vegetable Oil, Corn Meal, Gram Meal, Salt, Sugar, Tarteric, E631, Condiments.",Unhealthy,"High BP, Hypertension, Kidney disease, Risk of heart attack, and Stroke."
+MasalMunchKurkure,images/MasalMunchKurkure.jpeg,Kurkure,Packaging,"Rice Meal, Edible Vegetable Oil, Corn Meal, Gram Meal, Salt, Sugar, Tarteric, E631, Condiments.",Unhealthy,"High BP, Hypertension, Kidney disease, Risk of heart attack, and Stroke."
+IndiaMagicMasalaLays,images/IndiaMagicMasalaLays.jpeg,Chips,Packaging,"Potatoes, vegetable oil, Salts.",Unhealthy,"High BP, Hypertension, Kidney disease, Risk of heart attack, and Stroke."
+ClassisSaladLaysChips,images/ClassisSaladLaysChips.jpeg,Chips,Packaging,"Potatoes, vegetable oil, Salts.",Unhealthy,"High BP, Hypertension, Kidney disease, Risk of heart attack, and Stroke."
+ClassicLaysChips,images/ClassicLaysChips.jpeg,Chips,Packaging,"Potatoes, vegetable oil, Salts.",Unhealthy,"High BP, Hypertension, Kidney disease, Risk of heart attack, and Stroke."
+FortuneChakkiFreshAata,images/FortuneChakkiFreshAata.jpeg,Aata/Wheat Powder,Packaging,"Benzoic acid, Wheat, Oil, Soya, Chana, Maize, Psyllium Husk.",Healthy,No Issue
+DeshKaAata,images/DeshKaAata.jpeg,Aata/Wheat Powder,Packaging,"Benzoic acid, Wheat, Oil, Soya, Chana, Maize, Psyllium Husk.",Healthy,No Issue
+ChakkiAata,images/ChakkiAata.jpeg,Aata/Wheat Powder,Packaging,"Benzoic acid, Wheat, Oil, Soya, Chana, Maize, Psyllium Husk.",Healthy,No Issue
+AmmaBrandChakkiAtta,images/AmmaBrandChakkiAtta.jpeg,Aata/Wheat Powder,Packaging,"Benzoic acid, Wheat, Oil, Soya, Chana, Maize, Psyllium Husk.",Healthy,No Issue
+AshirwaadAata,images/AshirwaadAata.jpeg,Aata/Wheat Powder,Packaging,"Benzoic acid, Wheat, Oil, Soya, Chana, Maize, Psyllium Husk.",Healthy,No Issue
+Brown RiceBrownNaturallyHealthRice,images/BrownNaturallyHealthRice.jpeg,Rice,Packaging,Natural,Healthy,No Issue
+SpecialBiryaniRice,images/SpecialBiryaniRice.jpeg,Rice,Packaging,Natural,Healthy,No Issue
+LongGrainBasmatiRice,images/LongGrainBasmatiRice.jpeg,Rice,Packaging,Natural,Healthy,No Issue
+BahuraniBrandRice,images/BahuraniBrandRice.jpeg,Rice,Packaging,Natural,Healthy,No Issue
+DaawatTraditionalBasmatiRice,images/DaawatTraditionalBasmatiRice.jpeg,Rice,Packaging,Natural,Healthy,No Issue
+OrganicRice,images/OrganicRice.jpeg,Rice,Packaging,Natural,Healthy,No Issue
+EveryDayBasmatiRice,images/EveryDayBasmatiRice.jpeg,Rice,Packaging,Natural,Healthy,No Issue
+NaturesGiftRice,images/NaturesGiftRice.jpeg,Rice,Packaging,Natural,Healthy,No Issue
+PremiumBasmatiRice,images/PremiumBasmatiRice.jpeg,Rice,Packaging,Natural,Healthy,No Issue
+QueenOfPunjabRice,images/QueenOfPunjabRice.jpeg,Rice,Packaging,Natural,Healthy,No Issue
+IndiaGateBasmati,images/IndiaGateBasmati.jpeg,Rice,Packaging,Natural,Healthy,No Issue
+YippeMaggie,images/YippeMaggie.jpeg,Nuddles,Packaging,"Refined Wheat Flaur, Palm Oil, Wheat Gluton, Iodised Salt, Thickeners, Acidity Regulators, Humectant.",Unhealthy,"Diabetes, Heart Conditions and Nutritional Deficiencies."
+MaggieFood,images/MaggieFood.jpeg,Nuddles,Packaging,"Refined Wheat Flaur, Palm Oil, Wheat Gluton, Iodised Salt, Thickeners, Acidity Regulators, Humectant.",Unhealthy,"Diabetes, Heart Conditions and Nutritional Deficiencies."
+bnaturaljuice,images/bnaturaljuice.jpeg,Juice,Packaging,"Water, Mix Fruit Juice, Antioxident, Preservatives, Acidity Regulators, Artificial Sweeteners.",Unhealthy,"obesity, type-2 diabetes and increased fat production"
+frootimangojuice,images/frootimangojuice.jpeg,Juice,Packaging,"Water, Mix Fruit Juice, Antioxident, Preservatives, Acidity Regulators, Artificial Sweeteners.",Unhealthy,"obesity, type-2 diabetes and increased fat production"
+pulpyorangejuice,images/pulpyorangejuice.jpeg,Juice,Packaging,"Water, Mix Fruit Juice, Antioxident, Preservatives, Acidity Regulators, Artificial Sweeteners.",Unhealthy,"obesity, type-2 diabetes and increased fat production"
+tropicanajuice,images/tropicanajuice.jpeg,Juice,Packaging,"Water, Mix Fruit Juice, Antioxident, Preservatives, Acidity Regulators, Artificial Sweeteners.",Unhealthy,"obesity, type-2 diabetes and increased fat production"
+purejuice,images/purejuice.jpeg,Juice,Packaging,"Water, Mix Fruit Juice, Antioxident, Preservatives, Acidity Regulators, Artificial Sweeteners.",Unhealthy,"obesity, type-2 diabetes and increased fat production"
+realfruitjuice,images/realfruitjuice.jpeg,Juice,Packaging,"Water, Mix Fruit Juice, Antioxident, Preservatives, Acidity Regulators, Artificial Sweeteners.",Unhealthy,"obesity, type-2 diabetes and increased fat production"
+maazafruitjuice,images/maazafruitjuice.jpeg,Juice,Packaging,"Water, Mix Fruit Juice, Antioxident, Preservatives, Acidity Regulators, Artificial Sweeteners.",Unhealthy,"obesity, type-2 diabetes and increased fat production"
+paperboatjuice,images/paperboatjuice.jpeg,Juice,Packaging,"Water, Mix Fruit Juice, Antioxident, Preservatives, Acidity Regulators, Artificial Sweeteners.",Unhealthy,"obesity, type-2 diabetes and increased fat production"
